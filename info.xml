@@ -1,0 +1,72 @@
+<DATA>
+
+	<ROW>
+		<product_id>6</product_id>
+		<product_name>samsung2</product_name>
+		<product_discription>this is samsung2</product_discription>
+		<category_id>11</category_id>
+		<weight_class>120</weight_class>
+		<warranty_period>8</warranty_period>
+		<supplier_id>12</supplier_id>
+		<product_status>avalable</product_status>
+		<list_price>5000</list_price>
+		<min_price>200</min_price>
+		<catalog_url>#</catalog_url>
+	</ROW>
+
+	<ROW>
+		<product_id>7</product_id>
+		<product_name>sony2</product_name>
+		<product_discription>this is sony2</product_discription>
+		<category_id>11</category_id>
+		<weight_class>110</weight_class>
+		<warranty_period>7</warranty_period>
+		<supplier_id>11</supplier_id>
+		<product_status>avalable</product_status>
+		<list_price>4500</list_price>
+		<min_price>180</min_price>
+		<catalog_url>#</catalog_url>
+	</ROW>
+
+	<ROW>
+		<product_id>8</product_id>
+		<product_name>apple2</product_name>
+		<product_discription>this is apple2</product_discription>
+		<category_id>11</category_id>
+		<weight_class>130</weight_class>
+		<warranty_period>4</warranty_period>
+		<supplier_id>10</supplier_id>
+		<product_status>avalable</product_status>
+		<list_price>6000</list_price>
+		<min_price>300</min_price>
+		<catalog_url>#</catalog_url>
+	</ROW>
+
+	<ROW>
+		<product_id>9</product_id>
+		<product_name>vivo2</product_name>
+		<product_discription>this is vivo2</product_discription>
+		<category_id>11</category_id>
+		<weight_class>140</weight_class>
+		<warranty_period>3</warranty_period>
+		<supplier_id>9</supplier_id>
+		<product_status>not avalable</product_status>
+		<list_price>3000</list_price>
+		<min_price>150</min_price>
+		<catalog_url>#</catalog_url>
+	</ROW>
+
+	<ROW>
+		<product_id>10</product_id>
+		<product_name>oppo2</product_name>
+		<product_discription>this is oppo2</product_discription>
+		<category_id>11</category_id>
+		<weight_class>160</weight_class>
+		<warranty_period>5</warranty_period>
+		<supplier_id>8</supplier_id>
+		<product_status>avalable</product_status>
+		<list_price>3000</list_price>
+		<min_price>130</min_price>
+		<catalog_url>#</catalog_url>
+	</ROW>
+</DATA>
