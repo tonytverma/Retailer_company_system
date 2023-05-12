@@ -1,5 +1,5 @@
 # Retailer_company_system
-this is database system for a Retailer company. so company can store the information in this system and use it analyze the data.to 
+this is database system for a Retailer company. so company can store the information in this system and use it analyze the data.
 
 this is brife explanation about the tables in this database.
 1.Product_information Table
